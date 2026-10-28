@@ -1,0 +1,4 @@
+# Tested with Python 3.10.13 on CPU (no GPU required).
+torch==2.7.1
+numpy==2.2.6
+networkx==3.4.2
